@@ -1,0 +1,7 @@
+# LogMind - Dependencies
+# This tool is designed to work with zero external dependencies
+# Python 3.8+ standard library only
+
+# Optional dependencies for enhanced functionality (not required)
+# rich>=13.0.0  # For enhanced terminal output
+# textual>=0.41.0  # For TUI interface (future version)
